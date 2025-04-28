@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  GCDLL.cpp
+     Creating library C:\Users\victor\source\repos\GCDLL\x64\Release\GCDLL.lib and object C:\Users\victor\source\repos\GCDLL\x64\Release\GCDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GCDLL.vcxproj -> C:\Users\victor\source\repos\GCDLL\x64\Release\GCDLL.dll
