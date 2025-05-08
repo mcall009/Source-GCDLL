@@ -1,4 +1,6 @@
 # Source-GCDLL
+[![Status do Projeto](https://img.shields.io/badge/Status-Ativo-brightgreen.svg)](https://github.com/mcall009/Source-GCDLL)
+[![Licença](https://img.shields.io/badge/Licen%C3%A7a-GPL%20v3-blue.svg)](LICENSE)
 
 🔗[Lib criada para o projeto GCIV](https://github.com/KuramaxD/GCIV)
 
