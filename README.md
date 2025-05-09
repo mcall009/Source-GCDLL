@@ -6,3 +6,5 @@
 🔗[Lib criada para o projeto GCIV](https://github.com/KuramaxD/GCIV)
 
 A construção da mesma seguiu rigorosamente as [instruções](https://github.com/KuramaxD/GCIV?tab=readme-ov-file#gcdll-lib) do autor do emulador GCIV; porém, não posso garantir a funcionalidade 100% pois não realizei testes.
+
+🗞️[Leia a documentação](https://github.com/mcall009/Source-GCDLL/blob/main/documenta%C3%A7%C3%A3o.md)
