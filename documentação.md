@@ -313,12 +313,12 @@ end;
 - Windows SDK ou MinGW para APIs Windows
 - Make ou sistema de build equivalente
 
-## Compilação com Visual Studio
+### Compilação com Visual Studio
 
 1. Abra o arquivo GCDLL.sln no Visual Studio
 2. Selecione a configuração desejada (Debug ou Release) na barra de ferramentas
 3. Pressione F7 ou selecione "Build > Build Solution" no menu
-4. A DLL compilada (GCDLL.dll) estará disponível na pasta "Debug" ou "Release", dependendo da configuração selecionada
+4. A DLL compilada (GCDLL.dll) estará disponível na pasta "Debug" ou "Release", dependendo da configuração selecionada.
 
 ### Compilação com GCC/MinGW
 
