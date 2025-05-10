@@ -1,3 +1,4 @@
 Source-GCDLL/GCIV/** linguist-vendored
+GCIV/** linguist-vendored
 *.pas linguist-vendored
 *.pp linguist-vendored
